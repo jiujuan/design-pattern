@@ -1,7 +1,2 @@
 
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/jiujuan/design-pattern.git
-git push -u origin main
+- [常用的15个设计模式](./%E5%B8%B8%E7%94%A8%E7%9A%8415%E4%B8%AA%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F(Go%E5%92%8CJava%E7%89%88%E4%BB%A3%E7%A0%81).md)
